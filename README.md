@@ -1,8 +1,8 @@
-# <div align='center'>WhatsApp Web API</div>
+# <div align='center'>Escanor Developments API</div>
 
 <div align='center'>
 
-![WhatsApp API](https://raw.githubusercontent.com/Bell575/Upload/main/uploads/1742387351904.png)
+![WhatsApp API]([https://raw.githubusercontent.com/Bell575/Upload/main/uploads/1742387351904.png](https://files.catbox.moe/332baq.png))
 
 </div>
 
@@ -26,12 +26,7 @@ Here is an example you can use: [example.ts](Example/example.ts) or here is a tu
 
 Use the stable version:
 ```bash
-npm install @escanordev/baileys-ultra
-```
-
-Use the edge version (no guarantee of stability, but latest fixes + features)
-```bash
-yarn add @escanordev/baileys-ultra@latest
+git clone @escasnordev/baileys-ultra
 ```
 
 Then import your code using:
